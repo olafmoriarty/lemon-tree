@@ -2,6 +2,8 @@
 
 A script that lets the user enter their BlueSky username and password, and displays a list of suggested BlueSky users to follow based on who that user follows.
 
+Try it at https://lemontree.olafmoriarty.com!
+
 This is just a quick experiment I made to explore what can be done with [the BlueSky API](https://www.npmjs.com/package/@atproto/api). It was surprisingly easy -- this entire code sample was made in an afternoon -- so I strongly recommend playing around with the APIs.
 
 ## Use cases for Lemon Tree
